@@ -1,0 +1,6 @@
+# Bo qua file thuc thi va ban build Cpp
+*.exe
+*.o
+*.obj
+a.out
+main
